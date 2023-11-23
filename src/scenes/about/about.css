@@ -1,0 +1,7 @@
+.app__aboutus {
+  background: var(--color-black);
+}
+
+.app__aboutus-p {
+  margin-bottom: 2rem;
+}

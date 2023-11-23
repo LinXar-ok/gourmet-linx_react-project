@@ -1,0 +1,10 @@
+.app__findUs {
+  display: flex;
+  flex-direction: row;
+}
+
+.app__findUs-icon {
+  font-size: 2rem;
+  opacity: 0.5;
+  cursor: pointer;
+}
