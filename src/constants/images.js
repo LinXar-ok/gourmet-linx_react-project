@@ -28,7 +28,7 @@ import set2 from "../assets/set2.png";
 import set3 from "../assets/set3.png";
 import set4 from "../assets/set4.png";
 
-export default {
+const ImageData = {
   bg,
   chef,
   G,
@@ -59,3 +59,5 @@ export default {
   set3,
   set4,
 };
+
+export default ImageData;

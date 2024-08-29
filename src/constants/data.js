@@ -131,4 +131,6 @@ const services = [
   },
 ];
 
-export default { wines, cocktails, awards, menus, services };
+const restaurantData = { wines, cocktails, awards, menus, services };
+
+export default restaurantData;
